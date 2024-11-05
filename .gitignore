@@ -2,3 +2,5 @@
 *.reapeaks
 *.rpp-bak
 psch_album.flac
+.DS_Store
+psch_album_nov14.flac
